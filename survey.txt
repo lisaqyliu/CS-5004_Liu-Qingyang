@@ -1,0 +1,17 @@
+• Office Hour Preferences:
+Monday mornings,Friday afternoons, Saturday afternoons.
+• Values/Goals:
+With my education background, My goal is to create an educational software that should be able to adapt to what each student needs, almost like it knows them, and it should also help teachers by giving them data that makes their teaching even better.
+In CS 5004, I hope to learn all about designing software that can do these amazing things. I want to understand how to make software that adapts to different students, and maybe even use data to make it smarter. This way, I can contribute to making education more personalized and supportive for both students and teachers using technology.
+• Mac, Windows, or Linux?
+Apple M3 Pro
+• Processor; Cores; Clock Speed:
+M3, 12 cores,4.05 GHz.
+• Model and/or Year issued:
+November 2023.
+• Operating System Version:
+Sonoma 14.2.1
+• Random Access Memory:
+18 GB
+• Non-volatile Memory; Remaining Space Available:
+1 TB; 587.15 GB
