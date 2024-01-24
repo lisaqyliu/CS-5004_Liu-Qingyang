@@ -2,10 +2,10 @@
  * This class represent a shoe with attributes like type, color, brand, and size.
  */
 public class Shoe {
-    private String type;
-    private String color;
-    private String brand;
-    private double size;
+  private String type;
+  private String color;
+  private String brand;
+  private double size;
   /**
    * Constructor for creating a shoe object with its attributes.
    * @param type The type of the shoe.
@@ -49,7 +49,7 @@ public class Shoe {
   }
   /**
    * Returns a string representing of the Shoe object.
-   * 
+   *
    * @return A string containing the attributes of the shoe.
    */
   public String toString() {
